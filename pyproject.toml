@@ -42,7 +42,6 @@ dependencies = [
     "nibabel",
     "numpy>=1.15",
     "scipy",
-    "simpleitk!=2.0.*,!=2.1.1.1",
     "torch>=1.1",
     "tqdm",
     "typer",
